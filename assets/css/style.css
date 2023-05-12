@@ -382,3 +382,10 @@ Post Detail Styles
   color: #313b49;
   cursor: pointer;
 }
+
+@media screen and (max-width: 990px) {
+  .main-content {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
