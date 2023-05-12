@@ -361,6 +361,10 @@ Post Detail Styles
   color: #afb9ca;
 }
 
+.comment-input-btn input[type='text']:focus {
+  outline: none;
+}
+
 .comment-input-btn input[type='submit'] {
   background: none;
   border: none;
